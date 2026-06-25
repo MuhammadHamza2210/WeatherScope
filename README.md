@@ -1,5 +1,7 @@
 # WeatherScope 🌤️
 
+> 🔴 **Live demo:** **https://weatherscope-stlgpbewcgqufpmrbossmt.streamlit.app/**
+
 A premium weather app built with **Python + Streamlit** and an animated
 Three.js front-end. Shows current weather, air quality, a 7-day forecast and
 30-day history, blending OpenWeatherMap and Open-Meteo data.
